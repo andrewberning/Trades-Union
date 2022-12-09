@@ -1,0 +1,23 @@
+body{
+  height: 100vh;
+}
+a{
+  text-decoration: none;
+  color: #000;
+}
+ul{
+  padding: 0;
+  list-style: none;
+}
+.resize-img{
+  width: 400px;
+  height:300px;
+  object-fit: cover;
+  object-position: center;
+}
+/* .card{
+  width: 500px;
+} */
+.navbar-nav{
+  text-align: right;
+}
